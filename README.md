@@ -1,5 +1,5 @@
 # Apprentissage-supervise-credit-scoring
-Problème d'apprentissage supervisé où l'on souhaite prédire si un personne va rembourser son crédit.
+Problème d'apprentissage supervisé où l'on souhaite prédire si une personne va rembourser son crédit.
 
 Le dataset utilisé **"credit_scoring.csv"** contient 4455 individus et 14 colonnes (variables) qui sont les suivantes:
 
