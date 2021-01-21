@@ -7,7 +7,7 @@ Le dataset utilisé **"credit_scoring.csv"** contient 4455 individus et 14 colon
 <tbody>
 <tr><td><b>1  Status</b></td> <td> La personne a remboursé son crédit (variable qu'on souhaite prédire) </td></tr>
 <tr><td><b>2  Seniority</b></td> <td> Années d'ancienneté dans le travail en cours </td></tr>
-<tr><td><b>3  Home</b></td> <td> Type de propriété (</td></tr>
+<tr><td><b>3  Home</b></td> <td> Type de propriété </td></tr>
 <tr><td><b>4  Time</b></td> <td> Temps de prêt </td></tr>
 <tr><td><b>5  Age</b></td> <td> Âge </td></tr>
 <tr><td><b>6  Marital</b></td> <td> Statut conjugal </td></tr>
