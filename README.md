@@ -21,3 +21,5 @@ Le dataset utilisé **"credit_scoring.csv"** contient 4455 individus et 14 colon
 <tr><td><b>14 Price</b></td> <td> Prix du bien (pour lequel le prêt est fait) </td></tr>
 </tbody>
 </table>
+
+Ce repositery contient deux variantes du projet: un script python, et un notebook (le projet ayant été réalisé sur jupyter notebook).
