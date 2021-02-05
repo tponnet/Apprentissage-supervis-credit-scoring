@@ -22,4 +22,4 @@ Le dataset utilisé **"credit_scoring.csv"** contient 4455 individus et 14 colon
 </tbody>
 </table>
 
-Ce repositery contient deux variantes du projet: un script python, et un notebook (le projet ayant été réalisé sur jupyter notebook).
+Ce repositery contient deux variantes du projet: un script python, et un notebook jupyter.
